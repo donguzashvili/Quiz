@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9065936a-e395-4dd5-83e7-1a95c4a21fc7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Javascript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/.idea/Hotels.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/SignUp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/Login.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/Login.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/_tools.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/b2bMain.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/details.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/details.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/img/batumi.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/img/canyon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/img/holiday inn/149519.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/img/holiday inn/e78bf1278a347de9136c9e89163d36bb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/img/holiday inn/main.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/img/hotel-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/img/login background.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/img/racha.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/img/svaneti.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/search.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hotels/style/search.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TravelToGeorgia - Copy/.idea/TravelToGeorgia - Copy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../all in one/main..js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../async-await/.idea/async-await.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food/.idea/food.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../food/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../githubUsers/.idea/githubUsers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo/.idea/Javascript.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rYpMiS8TFFi4ZJfQ0C73e8Faue" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9065936a-e395-4dd5-83e7-1a95c4a21fc7" name="Default Changelist" comment="" />
+      <created>1619162831775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619162831775</updated>
+      <workItem from="1619162833190" duration="499000" />
+      <workItem from="1619163358693" duration="1839000" />
+      <workItem from="1619165251152" duration="37231000" />
+      <workItem from="1619342672724" duration="99000" />
+      <workItem from="1619342798219" duration="14682000" />
+      <workItem from="1619369568117" duration="22547000" />
+      <workItem from="1619472223827" duration="331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
